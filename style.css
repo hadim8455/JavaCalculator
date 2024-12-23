@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.cal-maincontainer{
+    width: 450px;
+    height: 500px;
+    background-color: blanchedalmond;
+    margin: auto auto;
+    margin-top: 50px
+
+    
+}
